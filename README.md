@@ -1,0 +1,2 @@
+# postman-lessons
+这是一个postman教程仓库。使用postman实现自动化接口测试.你将收获到postman覆盖真实项目用例实践。jenkins部署与触发。linux容器。不用写一行python/java代码也能做好接口自动化。适合测试小白，接口自动化新手。
