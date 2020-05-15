@@ -1,9 +1,9 @@
 ## 关于接口自动化的回答
 
 <details>
-<summary id="juejin" style="font-size:20px">为什么要用postman做接口自动化测试:thinking:</summary>
+<summary id="juejin" style="font-size:30px">为什么要用postman做接口自动化测试:thinking:</summary>
 
->关于接口自动化测试，目前在业内有两大类解决方案
+<font style="font-size:30px" color="#ffa500" face="黑体">关于接口自动化测试，目前在业内有两大类解决方案</font>
 
 - 一类是通过代码编写接口测试框架，实现接口自动化测试，其要求测试人员掌握扎实的编程基础；
     - 优点:laughing:
@@ -34,6 +34,9 @@
     - 人人能用
     - 构建容易
 
-> 一个好的**自动化测试项目**，需要从**时间**、**人力**、**收益**这三个方面出发，做好权衡，找出最适合项目的方式去开展。:smile:
+> 一个好的**自动化测试项目**，需要从
+<font color="#fdfdfd" bgcolor="#ffc433">时间</font>
+<font color="#fdfdfd" bgcolor="#ffc433">人力</font>
+<font color="#fdfdfd" bgcolor="#ffc433">收益</font>这三个方面出发，做好权衡，找出最适合项目的方式去开展。:smile:
 
 </details>
