@@ -39,6 +39,12 @@
 
 </details>
 
-[01.postman来发送我们的第一个请求]()
+### 课程目录
 
-[02.断个言检测下呗]()
+> 文章中的图片克隆项目到本地后即可正常浏览
+
+[01.postman来发送我们的第一个请求](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/01.first_request.md)
+
+[02.断个言检测下呗](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/01.assert.md)
+
+[03.生成请求接口代码](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/01.assert.md)
