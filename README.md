@@ -45,6 +45,8 @@
 
 [01.postman来发送我们的第一个请求](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/01.first_request.md)
 
-[02.断个言检测下呗](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/01.assert.md)
+[02.断个言检测下呗](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/02.assert.md)
 
-[03.生成请求接口代码](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/01.assert.md)
+[03.生成请求接口代码](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/03.build_request.md)
+
+[04.批量导入请求字段](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/04.bulk_key.md)
