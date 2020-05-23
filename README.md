@@ -50,3 +50,6 @@
 [03.《不用写，直接生成接口代码》](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/03.build_request.md)
 
 [04.《批量导入请求字段，再也不怕手笨写错啦》](https://github.com/hengxuZ/postman-lessons/blob/master/lessons/04.bulk_key.md)
+
+### 小实战
+[01.《搓搓手，来一次豆瓣顶贴实战》](https://github.com/hengxuZ/postman-lessons/blob/master/combat/01.douban_auto_invitation.md)
