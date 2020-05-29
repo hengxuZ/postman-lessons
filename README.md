@@ -1,7 +1,7 @@
 ## 关于接口自动化的回答
 
 <details>
-<summary id="juejin" color="#00ff00">:one:为什么要用postman做接口自动化测试</summary>
+<summary id="juejin" color="#00ff00">:one: 为什么要用postman做接口自动化测试</summary>
 
 关于接口自动化测试，目前在业内有两大类解决方案
 
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary id="juejin">:two:如何做好一个接口自动化测试项目呢</summary>
+<summary id="juejin">:two: 如何做好一个接口自动化测试项目呢</summary>
 
 - 降低成本 :yum:
     - 减少开发工具成本
